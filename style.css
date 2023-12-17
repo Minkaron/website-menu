@@ -98,8 +98,10 @@ body {
 
 .extras {
   position: absolute;
-  margin-top: 650px;
+  margin-top: 375px;
+  font-size: 50px;
   margin-left: 1050px;
+  transform: translate(0, -50%);
 }
 
 .item-title {
