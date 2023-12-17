@@ -13,7 +13,7 @@ body {
   font-family: "Pangolin";
   color: white;
   font-size: 20px;
-  background-image: url("https://cdn.discordapp.com/attachments/842276672870678559/1185949629301399703/menubg.png")
+  background-image: url("https://cdn.discordapp.com/attachments/842276672870678559/1185949629301399703/menubg.png");
 }
 
 #a {
@@ -23,7 +23,7 @@ body {
   display: flex;
   border: 10px outset orange;
   margin: 0 auto;
-  background-image: url(https://cdn.discordapp.com/attachments/842276672870678559/1185975861527191592/chalk.png?ex=65919117&is=657f1c17&hm=7022e44b43fb4f67d2eef8e6e9b48cbaf17b386b5e18e49db26167fb2e7f5f03&)
+  background-image: url(https://cdn.discordapp.com/attachments/842276672870678559/1185975861527191592/chalk.png);
 }
 
 .menu {
