@@ -32,7 +32,7 @@
 }
 
 #e-t-1::before {
-  content: "Lavender's Fruit Sandwich - 15";
+  content: "Lavender's Fruit Sandwich - 12";
 }
 
 #e-d-1::before {
@@ -80,11 +80,11 @@
 }
 
 #d-t-2::before {
-  content: "";
+  content: "Telegradian Blonde Ale - 13";
 }
 
 #d-d-2::before {
-  content: "";
+  content: "Crisp, hints of citrus, and a touch sweet to balance the bitter, this Telegradian sourced ale is sure to please any drinker — both inexperienced and well-acquainted. And it's always on tap!";
 }
 
 #d-t-3::before {
