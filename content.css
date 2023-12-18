@@ -15,6 +15,7 @@
 }
 
 #e-5 {
+  background-image: url("https://minkaron.github.io/website-menu/images/food/stew.png");
 }
 
 #d-1 {
@@ -67,11 +68,11 @@
 }
 
 #e-t-5::before {
-  content: "";
+  content: "Cold Curer - 18";
 }
 
 #e-d-5::before {
-  content: "";
+  content: "A hearty bowl of stewed beef with carrots, potatoes, and other aromatics. The broth has been reduced to a rich gravy with every bite melting into your mouth. Dubbed a 'cure-all' by Telegradian moms!"
 }
 
 #d-t-1::before {
