@@ -107,6 +107,7 @@ body {
 .item-title {
   font-size: 20px;
   color: skyblue;
+  font-weight: bold;
 }
 
 .fine-detail {
