@@ -27,12 +27,15 @@
 }
 
 #d-3 {
+  background-image: url("https://minkaron.github.io/website-menu/images/drinks/noble.png");
 }
 
 #d-4 {
+  background-image: url("https://minkaron.github.io/website-menu/images/drinks/peach.png");
 }
 
 #d-5 {
+  background-image: url("https://minkaron.github.io/website-menu/images/drinks/gleam.png");
 }
 
 #e-t-1::before {
@@ -80,7 +83,7 @@
 }
 
 #d-d-1::before {
-  content: "A chilling beverage with a shot of vodka, half-shot curaçao, splash of pineapple juice, and a drop or two of enchanted oil for a fog effect. Served with a lime wedge. As tropical as it is chilling!";
+  content: "A refreshing beverage with a shot of vodka, shot of curaçao, splash of pineapple juice, and a drop or two of enchanted oil for foggy mystique. Served with a lime wedge. As tropical as it is chilling!";
 }
 
 #d-t-2::before {
@@ -88,29 +91,29 @@
 }
 
 #d-d-2::before {
-  content: "Crisp, hints of citrus, and a touch sweet to balance the bitter, this ale is sure to please any drinker — both inexperienced and well-acquainted. And it's always on tap.";
+  content: "A classic. Crisp, hints of citrus, and a touch sweet to balance the bitter, this ale is sure to please any drinker — both inexperienced and well-acquainted. And it's always on tap.";
 }
 
 #d-t-3::before {
-  content: "";
+  content: "Noble's Blood - 15";
 }
 
 #d-d-3::before {
-  content: "";
+  content: "Love cherries? Then this is the drink for you. Cherry infused brandy, shot of vodka, and squeeze of lemon juice for added tart. If nobles had hearts, this would surely pump through it.";
 }
 
 #d-t-4::before {
-  content: "";
+  content: "High Roller - 14";
 }
 
 #d-d-4::before {
-  content: "";
+  content: "Floral white tea, honey, peach juice, with a shot of Meiaquarise rum and you'll be feelin' like a million gold bars! Just don't run to the casino and try to bet that amount.";
 }
 
 #d-t-5::before {
-  content: "";
+  content: "Gleam & Gloom - 16";
 }
 
 #d-d-5::before {
-  content: "";
+  content: "Mead mixed with a healthy portion of blueberry and orange puree — poured to look like night and day. It's like a refreshing morning smoothie but with the sucker punch of a brawling nightclub.";
 }
