@@ -15,7 +15,7 @@ body {
   color: white;
   font-size: 20px;
   background-position: center;
-  background-image: url("https://cdn.discordapp.com/attachments/842276672870678559/1185949629301399703/menubg.png?ex=65f6fc29&is=65e48729&hm=4017916216c38f98130af22a251cd93a5b9500e9ca86ed79d50164b914fb1c0f&");
+  background-image: url("https://minkaron.github.io/website-menu/images/menubg.png");
 }
 
 #a {
@@ -27,7 +27,7 @@ body {
   flex-direction: column;
   border: 10px outset orange;
   margin: 0 auto;
-  background-image: url("https://cdn.discordapp.com/attachments/842276672870678559/1185975861527191592/chalk.png?ex=65f71497&is=65e49f97&hm=1865c0406e6ad45644b1122b501efa7d364204e48f752906902fc6b5e7b6070a&");
+  background-image: url("https://minkaron.github.io/website-menu/images/chalk.png");
 }
 
 .menu-con {
